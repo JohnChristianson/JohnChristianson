@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JohnAChris
+- 👀 I’m interested in tennis, engineering, and playing Valorant
+- 🌱 I’m currently studying Mechanical Engineering, and also Computer Science, Computer Engineering, and Electrical Engineering (it's a lot, I know)!
+- 💞️ I’m looking to collaborate on anything and everything! Automation and prototyping are my specialty.
+- 📫 How to reach me: Email JohnAChristianson@gmail.com!
