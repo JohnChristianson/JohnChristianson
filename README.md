@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JohnAChris
-- 👀 I’m interested in tennis, engineering, and playing Valorant
-- 🌱 I’m currently studying Mechanical Engineering, and also Computer Science, Computer Engineering, and Electrical Engineering (it's a lot, I know)!
-- 💞️ I’m looking to collaborate on anything and everything! Automation and prototyping are my specialty.
-- 📫 How to reach me: Email JohnAChristianson@gmail.com!
+- 👋 Hi, I’m @azurefps
+- 👀 I’m play tennis, Valorant eSports, and ultimate frisbee
+- 🌱 Currently in university studying mechanical engineering and computer science
+- 💞️ I work with control systems / system integration and dabble in encryption
