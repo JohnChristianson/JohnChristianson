@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azurefps
+- 👋 Hi, I’m John
 - 👀 I play tennis, Valorant eSports, and ultimate frisbee
 - 🌱 Currently in university studying mechanical engineering and computer science
 - 💞️ I work with control systems / system integration and dabble in encryption
